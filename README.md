@@ -8,3 +8,5 @@ Tandem is a Google Docs–like collaborative text editor built using Node.js, Re
 - MongoDB + Redis
 - Socket.IO (WebSockets)
 - OT / CRDT (real-time sync)
+
+# Created by Abinash
